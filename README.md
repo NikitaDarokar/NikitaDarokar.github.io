@@ -1,2 +1,2 @@
-# NikitaDarokar.github.io
+# Nikita Darokar
 This Is Home
